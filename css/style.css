@@ -1,0 +1,8 @@
+#mi{
+  background-image: url(../images/emn.jpg);
+ background-color: hsl(0, 100%, 50%);
+ background-size: 100% 100vh;
+ background-repeat: no-repeat;
+ color: lawngreen;
+ background-attachment: fixed;
+}
